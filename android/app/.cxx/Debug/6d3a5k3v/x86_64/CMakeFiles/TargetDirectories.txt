@@ -1,0 +1,2 @@
+C:/Users/divya/Desktop/sgsits_gym/sgsits_gym/android/app/.cxx/Debug/6d3a5k3v/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/divya/Desktop/sgsits_gym/sgsits_gym/android/app/.cxx/Debug/6d3a5k3v/x86_64/CMakeFiles/rebuild_cache.dir
